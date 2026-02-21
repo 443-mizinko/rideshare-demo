@@ -3,7 +3,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>相乗りタクシー マッチング（完成・統合版）</title>
+  <title>相乗りタクシー マッチング</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <style>
